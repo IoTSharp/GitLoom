@@ -20,4 +20,4 @@ dotnet_csproj:
 build_script:
 - cmd: msbuild  -restore  -t:Rebuild -p:Configuration=Release
 artifacts:
-- path: src\GitLoom\bin\Release\*.nupkg
+- path: src\bin\Release\*.nupkg
