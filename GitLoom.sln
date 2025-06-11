@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLoom", "src\GitLoom.csproj", "{5E4C43A6-9147-5AFD-476F-5A45E2E5660C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4C43A6-9147-5AFD-476F-5A45E2E5660C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4C43A6-9147-5AFD-476F-5A45E2E5660C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4C43A6-9147-5AFD-476F-5A45E2E5660C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4C43A6-9147-5AFD-476F-5A45E2E5660C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86E8752-1A6E-43D6-B965-5B06B02FF9B1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp2": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Uixe\\UixeTollSuite"
+    }
+  }
+}
